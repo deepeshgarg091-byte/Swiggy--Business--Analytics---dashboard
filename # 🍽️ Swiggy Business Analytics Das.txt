@@ -1,0 +1,48 @@
+# 🍽️ Swiggy Business Analytics Dashboard
+
+## 📌 Project Overview
+The **Swiggy Business Analytics Dashboard** is an interactive Power BI project that analyzes restaurant performance, customer behavior, food categories, ratings, and delivery efficiency. The dashboard converts raw restaurant data into meaningful business insights to support data-driven decision-making.
+
+---
+
+## 🎯 Business Objectives
+- Analyze restaurant distribution across cities.
+- Identify top-performing restaurants.
+- Monitor customer ratings and satisfaction.
+- Compare delivery performance across cities.
+- Understand food category preferences.
+- Enable better business decisions through analytics.
+
+---
+
+## 🛠️ Tech Stack
+- 📊 Power BI
+- 🗄️ MySQL
+- 💻 SQL
+- 📈 DAX
+- 🔄 Power Query
+- 📑 Microsoft Excel
+
+---
+
+## 📂 Dataset
+The dataset includes:
+- Restaurant Name
+- City
+- Food Type
+- Customer Count
+- Delivery Time
+- Rating
+- Order Details
+
+---
+
+## 📊 Dashboard Features
+
+### 🔹 Page 1: Executive Dashboard
+- KPI Cards
+  - Total Restaurants
+  - Total Customers
+  - Average Delivery Time
+  - Average Rating
+  - Distinct Food Types
